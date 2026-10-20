@@ -1,8 +1,8 @@
 # ShopSphere - Online E-Commerce & Inventory Management System
 ### Advanced Java Lab Project (5th Semester)
 
-**Developer:** Pratham Kumar Singh  
-**Roll No:** 24EGJAD036  
+**Developer:** Tarun Kumawat  
+**Roll No:** 24EGJAD300  
 **Course:** B.Tech Computer Science & Engineering / AI & DS (5th Sem)  
 **College:** Global Institute of Technology (GIT), Jaipur  
 **University:** Rajasthan Technical University (RTU), Kota  
