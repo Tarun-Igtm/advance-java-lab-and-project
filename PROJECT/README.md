@@ -3,8 +3,11 @@
 **Student Name:** Tarun Kumawat 
 
 **Roll No:** 24EGJAD300
+
 **Semester:** 5th Semester (B.Tech CSE / AI & DS)  
-**College:** Global Institute of Technology (GIT), Jaipur  
+
+**College:** Global Institute of Technology (GIT), Jaipur 
+
 **University:** Rajasthan Technical University (RTU), Kota  
 
 ---
